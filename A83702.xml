@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull propositions; propounded by the Commons assembled in Parliament, to all true subjects within the kingdome of England, and dominion of Wales. Wherein they declare the proceedings of the King of Denmarke also how the Kings Maiesty hath sent two embassadors to the said King of Denmarke, concerning his present proceedings here in England. Likewise the King of Denmarkes answer and resolution, concerning His Majesties desire. Presented to the Kings Majesty at Oxford, December 20. 1642. Ordered by the Commons House of Parliament, that these propositions be forthwith printed and published. Hen. Elsing, Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83702</idno><idno type="EEBO-CITATION">99873556</idno>
+  <idno type="VID">126033</idno>
+  <idno type="EEBO-PROQUEST">2248523632</idno>
+  
+            <idno type="STC">Wing E2575A</idno>
+            <idno type="STC">Thomason E83_12</idno>
+            <idno type="STC">ESTC R9480</idno>
+            <idno type="PROQUEST">99873556</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873556e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126033)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull propositions; propounded by the Commons assembled in Parliament, to all true subjects within the kingdome of England, and dominion of Wales. Wherein they declare the proceedings of the King of Denmarke also how the Kings Maiesty hath sent two embassadors to the said King of Denmarke, concerning his present proceedings here in England. Likewise the King of Denmarkes answer and resolution, concerning His Majesties desire. Presented to the Kings Majesty at Oxford, December 20. 1642. Ordered by the Commons House of Parliament, that these propositions be forthwith printed and published. Hen. Elsing, Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Denmark. Sovereign (1588-1648 : Christian IV)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 23, Printed for I.H. and William Crumwell,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="topical_term">Dano-Swedish War, 1643-1645.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126033:1"/>
+            <p> Exceeding Joyfull PROPOSITIONS; Propounded by the Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, to all true Subjects within the Kingdome of ENGLAND, and Dominion of WALES.</p>
+            <p>Wherein they declare the proceedings of the KING OF DENMARKE Also how the Kings Maiesty hath sent two Embassadors to the said King of <hi>Denmarke,</hi> concerning his present procee<g ref="char:EOLhyphen"/>dings here in ENGLAND.</p>
+            <p>Likewise the King of <hi>Denmarkes</hi> Answer and Resolution, concerning his Majesties desire.</p>
+            <p>
+               <hi>Presented to the Kings Majesty at OXFORD,</hi> December 20. 1642.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Commons House of Parliament, that these Propositions be forthwith Printed and publi<g ref="char:EOLhyphen"/>shed.</hi>
+                        </p>
+                        <p>Hen. Elsing, Cler. Parliamentorum.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Decemb.</hi> 23, Printed for <hi>I. H.</hi> and <hi>William Crumwell</hi> 1642.</p>
+            <pb facs="tcp:126033:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:126033:2"/>
+            <head>Exceeding Joyfull Propositions, From the High and Honourable Court of Parliament.</head>
+            <head type="sub">To all His Maiesties Subiects in His Dominions of <hi>ENGLAND</hi> and <hi>WALES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE the Lords and Commons in this pre<g ref="char:EOLhyphen"/>sent Parliament assem<g ref="char:EOLhyphen"/>bled, doe in the pre<g ref="char:EOLhyphen"/>sence of Almighty God for the satisfaction of all true English Sub<g ref="char:EOLhyphen"/>jects, propound these Our Propositions to
+<pb facs="tcp:126033:3"/> the Subjects of this Nation, to satisfie them in generall of our proceedings, and that there was nor is not the least thought a<g ref="char:EOLhyphen"/>rising among us, of any evill intention toward his Majesty, nor Designe▪ to the prejudice of his just Honour and Autho<g ref="char:EOLhyphen"/>rity, but being ingaged to raise forces, and to take up Armes against the Authors of this bloody and intestine Warre, where<g ref="char:EOLhyphen"/>with this Kingdome, that lately flourished in Peace and prosperity, is now involved in blood and slaughter, the dire effects of Warre,.</p>
+            <p>And we have allwaies desired from our hearts and soules, and manifested in Our actions and proceedings, and in severall humble Petitions and Messages, professed Our loyalty and obedience to his Majesty, with our readinesse and resolution to de<g ref="char:EOLhyphen"/>fend his Person, and support his estate by the hazard of Our lives and fortunes, and that we have been willing for the Peace of the Kingdome, to passe by high incroach<g ref="char:EOLhyphen"/>ments and usurpations, to the prejudice o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:126033:3"/> Religion and Liberty, and divers bloody trayterous practizes to the utter ruine both of Church and State, so as we might for the present time have been secuted from that wicked malignant party, those perni<g ref="char:EOLhyphen"/>tious and trayterous Councellors, who have beene the authors of these calamities, which have, and doe still distemper this Church and State, and all evidence and inducements maketh us really believe, that the Kings Councell and resolutions, are so ingaged to the popish party, for the extir<g ref="char:EOLhyphen"/>pation of Gods true Religion, that all our hopes of peace are excluded, and his Maje<g ref="char:EOLhyphen"/>sty fully intends to give satisfaction to the Church of <hi>Rome,</hi> and their adherents, by al<g ref="char:EOLhyphen"/>tering the protestant profession (namely) the true Religion so long professed by the People of this Nation, and maintained by so many Protestant Princes, to their eternall same, that so the malignant Vipers may (by opposing his Majesties good Subjects) gaine power to destroy the wel-affected party of this Kingdome.</p>
+            <pb facs="tcp:126033:4"/>
+            <p> Wherefore We have thought fit to de<g ref="char:EOLhyphen"/>clare unto you the resolution and procee<g ref="char:EOLhyphen"/>dings of the King of DENMARKE, and how his Majesty hath imployed divers Persons of ill report, both for Religion and hone<g ref="char:EOLhyphen"/>sty, to <hi>Denmarke,</hi> and divers other forraine parts, to raise forces there, and to land them in the Northern parts of this King<g ref="char:EOLhyphen"/>dome, to joyne with the Earle of <hi>Cumber<g ref="char:EOLhyphen"/>lands</hi> Papisticall Crew, and that through his Majesties Embassadors meanes, they have prevailed so farre with foraigne Papists that in divers places beyond the Seas there is great preparation for all Warre-like pro<g ref="char:EOLhyphen"/>vision, to assist his Majesty the King of England, against his great Councell the Parliament, the Protectors and framers of this Warre, having set downe their Reso<g ref="char:EOLhyphen"/>lution and determination to plant Popery &amp; superstition in this Kingdome, and to a<g ref="char:EOLhyphen"/>bollish the true Protestant proffession.</p>
+            <p>Wherefore we have thought it also meet and necessary for the preservation of the Gospell, to declare unto you, that his Ma<g ref="char:EOLhyphen"/>jesty
+<pb facs="tcp:126033:4"/> hath of late dayes received about him divers knowne notorious Papists, being the first authors of these bloody Warres in <hi>Ireland,</hi> some of which stand impeached of high Treason for the Rebellion there, by the Parliament of England, it be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng appa<g ref="char:EOLhyphen"/>rently knowne that they have beene in ac<g ref="char:EOLhyphen"/>tuall Rebellion, as namely the Lord <hi>Taffe,</hi> Sir <hi>John Dungane,</hi> proclaimed Rebels, like<g ref="char:EOLhyphen"/>wise Doctor <hi>Meare,</hi> indited for the Rebel<g ref="char:EOLhyphen"/>lion there, and fled for the same, and yet appointed Phisitian to Prince <hi>Rupert.</hi>
+            </p>
+            <p>Wee have thought it necessary to declare likewise, that we have received certaine in<g ref="char:EOLhyphen"/>formation, that the King hath sent for the Petition of the Irish-Rebels, which the Ju<g ref="char:EOLhyphen"/>stices had stopt, with evident expressions of favour to them, where<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that Kingdome is like to become an unfit habitation for the professors of the Protestant Religion, and a seminary or seed-plot of Warre and Treason against this Kingdome, and that the Rebels in Jreland must needs gaine in<g ref="char:EOLhyphen"/>incouragement, and the poore Protestant
+<pb facs="tcp:126033:5"/> party be very much disheartned to see <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heavy distractions of this Kingdome, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which meanes the Rebels are very confi<g ref="char:EOLhyphen"/>dent that they shall utterly destroy the Pro<g ref="char:EOLhyphen"/>testant Religion, and plant popery and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>perstition in its place, for the preservatio<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of which, wee desire all that would declare themselves true Protestants, to laye their helping hand hereunto, and to assist this Army that now stands for the same, under the Command of his Excellency <hi>Robert</hi> Earle of <hi>Essex.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Commons in Parliament as<g ref="char:EOLhyphen"/>sembled, that these Propositions be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsing, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
